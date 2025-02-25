@@ -14,6 +14,8 @@ A responsive **Netflix Clone** built using **HTML & CSS**, replicating the UI wi
 
 ## 📷 Screenshot  
 ![Screenshot 2025-02-25 171930](https://github.com/user-attachments/assets/0cf4836a-486f-4348-ad93-7fc4e360decc)
+![Screenshot 2025-02-25 172207](https://github.com/user-attachments/assets/9838903c-6666-467a-ae75-3e48739627a3)
+
 
 
 ## 🚀 Getting Started  
